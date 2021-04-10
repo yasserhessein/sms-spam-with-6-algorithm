@@ -21,3 +21,14 @@ The SMS Spam Collection is a set of SMS tagged messages that have been collected
 
 https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
+
+If you want help plz contact me
+
+Yasserhesseinshakir@yahoo.com
+
+https://www.linkedin.com/in/yasir-hussein-314a65201/
+
+https://www.kaggle.com/yasserhessein
+
+https://github.com/yasserhessein
+
